@@ -1,5 +1,6 @@
-### Hi there 👋
+## 🔵 Exploring the Open Source World
 ![](https://github.com/hamettio/hamettio/blob/master/github-loading.gif)
+
 
 <!--
 **hamettio/hamettio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
