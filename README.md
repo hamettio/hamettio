@@ -1,5 +1,7 @@
-## 🔵 Exploring the Open Source World
-![](https://github.com/hamettio/hamettio/blob/master/github-loading.gif)
+# 🔵 Exploring the Open Source World
+<!-- ![](https://github.com/hamettio/hamettio/blob/master/github-loading.gif)
+ -->
+### ⚡ Access my github gists at https://gists.github.com/hamettio
 
 
 <!--
